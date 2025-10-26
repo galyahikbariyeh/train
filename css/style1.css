@@ -1,0 +1,30 @@
+#main1{
+    height: 500px;
+    background-color: aqua;
+}
+
+#main2{
+    height: 500px;
+    background-color: brown;
+}
+#main3{
+    height: 500px;
+    background-color: yellowgreen;
+}
+#main4{
+    height: 500px;
+    background-color: blue;
+}
+
+#main5{
+    height: 500px;
+    background-color: yellow;
+}
+
+
+#main6{
+  
+    height: 500px;
+    background-color: beige !important;
+   
+}

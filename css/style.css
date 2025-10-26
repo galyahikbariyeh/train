@@ -1,0 +1,45 @@
+.sales p {
+      color: green;
+    }
+
+
+
+
+
+
+pre{
+    color: #964e4e;
+    font-weight: lighter;
+    font-style:oblique;
+   text-transform:none;
+  
+}
+
+pre strong{
+    color:white;
+    background-color: blue;
+    font-weight: bold;
+}
+
+/* a link */
+/* unvisited */
+a:link{
+    color: red;
+    font-size: 40px;
+}
+/* visited */
+
+a:visited { color: purple; }
+
+
+
+a:hover { color:yellow; }
+
+a:active{
+    color: aqua;
+}
+
+a.link:hover{
+  
+    color: peru;
+}

@@ -1,0 +1,38 @@
+/* h1{
+    background-color:hsl(0, 50%, 50%);
+} */
+/* rem 2*root  2*16=32px  2rem == 32px */
+/* html{
+    font-size: 16px;
+} */
+
+/* em 2*father 2*20== 40px   2em==40px */
+/* div{
+    font-size: 20px;
+    
+}
+
+.em{
+    font-size: 2em;
+    background-color: yellow;
+
+
+}
+
+.rem{
+    font-size: 2rem;
+    background-color: aqua;
+
+} */
+h1{
+    font-weight:600;
+    font-style:inherit;
+    text-decoration: overline;
+}
+p{
+    text-transform: lowercase;
+}
+
+
+
+
